@@ -67,6 +67,19 @@ Example chart from the project:
 
 ---
 
+
+## 📈 Visualization
+
+A comparison bar chart demonstrates:
+
+- Drop in vocabulary size
+- Shorter and cleaner review text
+
+This confirms that preprocessing **positively impacts dataset quality**.
+
+---
+
+
 ## 🛠 How to Run
 
 1. Install the required Python libraries:  
@@ -77,3 +90,7 @@ Example chart from the project:
 
 3. After running all cells, the cleaned dataset will be saved as:  
    yelp_cleaned_llm.csv
+
+---
+
+👩‍💻 Author: Keshav Kathuria
